@@ -9,6 +9,7 @@ Based on the [series of youtube videos](https://www.youtube.com/playlist?list=PL
 pip install django
 pip install django-crispy-forms
 pip install crispy-bootstrap4
+pip install Pillow
 ```
 
 ## known issues
